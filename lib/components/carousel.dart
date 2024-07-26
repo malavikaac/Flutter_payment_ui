@@ -28,7 +28,7 @@ final List<String> imgList = [
   'https://i.ytimg.com/vi/zeJ7iHmk2xI/maxresdefault.jpg',
   'https://thebrandhopper.com/wp-content/uploads/2020/12/112181-atm.jpg',
   'https://static.bankbazaar.com/images/india/infographic/phonepe-july-2018.webp',
-  'https://images.unsplash.com/photo-1519985176271-adb1088fa94c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a0c8d632e977f94e5d312d9893258f59&auto=format&fit=crop&w=1355&q=80'
+  'https://thehardcopy.co/wp-content/uploads/PhonePe_Codesign-THC-01-1200x675.jpg'
 ];
 
 final List<Widget> imageSliders = imgList
