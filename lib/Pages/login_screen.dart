@@ -5,9 +5,9 @@ class MyWidget extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const Scaffold(
+    return Scaffold(
       backgroundColor: Color.fromARGB(255, 226, 250, 253),
-      
+      appBar:AppBar(),
     );
   }
 }
